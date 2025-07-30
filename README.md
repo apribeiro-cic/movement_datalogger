@@ -1,4 +1,4 @@
-# Datalogger de Movimento com Interface CSV 📈
+# Datalogger de Movimento com Feedback Visual 📈
 
 Este projeto foi desenvolvido para a placa **BitDogLab**, baseada no microcontrolador **Raspberry Pi Pico W**, e tem como objetivo capturar dados de movimento em tempo real utilizando o sensor **MPU6050**. Os dados de aceleração e giroscópio são salvos automaticamente em um cartão microSD no formato `.csv`, permitindo a posterior análise gráfica através de linguagens como Python.
 
